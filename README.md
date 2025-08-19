@@ -2,6 +2,15 @@
 
 This repository contains custom templates and examples for generating QR codes using the excellent QR Code generator library by **Project Nayuki**.
 
+## 📚 Documentation
+
+| Section | Description |
+|---------|-------------|
+| [🚀 Installation](INSTALLATION.md) | Step-by-step setup guide |
+| [💡 Examples](EXAMPLES.md) | Code examples and templates |
+| [📄 Attribution](ATTRIBUTION.md) | Credits and license information |
+| [📖 Original Documentation](Nayuki.md) | Nayuki's original README and documentation |
+
 ## Original Library
 
 This project is built upon the QR Code generator library:
